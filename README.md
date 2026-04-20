@@ -80,12 +80,12 @@ Ces ateliers permettent aux étudiants de :
 
 ## 📬 Contact
 
-📧 **Email** : [salmamarzouk07@gmail.com](mailto:salmamarzouk07@gmail.com)
-🔗 **LinkedIn** : [www.linkedin.com/in/salma-marzouk-822065314](http://www.linkedin.com/in/salma-marzouk-822065314)
+ **Email** : [salmamarzouk07@gmail.com](mailto:salmamarzouk07@gmail.com)
+ **LinkedIn** : [www.linkedin.com/in/salma-marzouk-822065314](http://www.linkedin.com/in/salma-marzouk-822065314)
 
-🌟 **GitHub** : Contributions et suggestions bienvenues !
+ **GitHub** : Contributions et suggestions bienvenues !
 
 ---
 
-*Développé avec passion pour former la prochaine génération d'ingénieurs IA* 🤖✨
+*Développé avec passion pour former la prochaine génération d'ingénieurs IA* 
 
