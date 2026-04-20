@@ -59,10 +59,15 @@ Introduction aux Large Language Models : prompt engineering, embeddings, génér
 Ces ateliers permettent aux étudiants de :
 
 ✅ acquérir les notions de base indispensables en Python et dans ses principales bibliothèques.
+
 ✅ comprendre le cycle complet du traitement et de la visualisation des données.
+
 ✅ assimiler les principes fondamentaux du Machine Learning.
+
 ✅ construire, entraîner et évaluer leurs premiers modèles d’apprentissage automatique.
+
 🔜 prochainement : explorer les bases du Deep Learning et de l’IA générative.
+
 
 **Impact** : Une formation pratique et orientée projets, avec une approche hands-on favorisant l’apprentissage par la pratique.
 
@@ -71,9 +76,13 @@ Ces ateliers permettent aux étudiants de :
 ## Stack technique
 
 **Data & Visualisation** : Python • Pandas • NumPy • Matplotlib • Seaborn
+
 **Machine Learning** : Scikit-learn
+
 🔜 **Deep Learning** : TensorFlow • Keras (à venir)
+
 🔜 **IA Générative** : LLM APIs (à venir)
+
 **Environnement** : Jupyter Notebook
 
 ---
