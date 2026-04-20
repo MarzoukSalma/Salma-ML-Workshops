@@ -1,9 +1,9 @@
 
-# 🤖 Ateliers d'Intelligence Artificielle – ENSA Tanger
+# Ateliers d'Intelligence Artificielle – ENSA Tanger
 
 Dépôt regroupant **les ateliers d’Intelligence Artificielle** que j’ai animés au sein du club Computer Science à l’ENSA Tanger, destinés aux étudiants de **2ème année préparatoire et 1ère année du cycle ingénieur**.
 
-⚠️ Ce dépôt est **en évolution progressive** : certaines thématiques avancées comme le **Deep Learning** et les **LLM (Large Language Models)** seront ajoutées prochainement.
+ Ce dépôt est **en évolution progressive** : certaines thématiques avancées comme le **Deep Learning** et les **LLM (Large Language Models)** seront ajoutées prochainement.
 
 Un parcours pédagogique progressif pour découvrir les **bases de l'IA**, couvrant actuellement :
 
@@ -21,7 +21,7 @@ Un parcours pédagogique progressif pour découvrir les **bases de l'IA**, couvr
 
 ---
 
-## 🗂 Structure du dépôt
+##  Structure du dépôt
 
 ### `01_introduction_generale/`
 
@@ -54,7 +54,7 @@ Introduction aux Large Language Models : prompt engineering, embeddings, génér
 
 ---
 
-## 🎯 Valeur ajoutée
+## Valeur ajoutée
 
 Ces ateliers permettent aux étudiants de :
 
@@ -68,7 +68,7 @@ Ces ateliers permettent aux étudiants de :
 
 ---
 
-## 🧰 Stack technique
+## Stack technique
 
 **Data & Visualisation** : Python • Pandas • NumPy • Matplotlib • Seaborn
 **Machine Learning** : Scikit-learn
