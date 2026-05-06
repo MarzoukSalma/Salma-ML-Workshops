@@ -33,10 +33,10 @@ Les bases essentielles de Python avec les bibliothèques nécessaires pour l’I
 
 ### `03_Data_Analyses/`
 
-**📊 Atelier 1 – Data Visualisation**
+** Atelier 1 – Data Visualisation**
 Construction de dashboards interactifs avec Matplotlib et Seaborn : histogrammes, boxplots, analyses comparatives.
 
-**🧹 Atelier 2 – Data Processing**
+** Atelier 2 – Data Processing**
 Pipeline complet de nettoyage : gestion des valeurs manquantes, détection d'outliers, encodage, normalisation et préparation pour le ML.
 
 ### `AI_Modules/`
