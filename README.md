@@ -41,14 +41,14 @@ Pipeline complet de nettoyage : gestion des valeurs manquantes, détection d'out
 
 ### `AI_Modules/`
 
-**🟦 Module 03 – Machine Learning**
+**Module 03 – Machine Learning**
 Types d'apprentissage (supervisé/non supervisé), train/test split et implémentation de modèles : régression linéaire, Decision Trees, régression logistique avec Scikit-learn.
 
-**🟥 Module 04 – Deep Learning (À venir)**
+**Module 04 – Deep Learning (À venir)**
 Introduction aux réseaux de neurones avec TensorFlow/Keras : perceptron multicouche, entraînement et visualisation des métriques.
 *Notebooks en cours de préparation.*
 
-**🟣 Module 05 – IA Générative & LLM (À venir)**
+**Module 05 – IA Générative & LLM (À venir)**
 Introduction aux Large Language Models : prompt engineering, embeddings, génération de texte et chatbots.
 *Contenu en cours de développement.*
 
