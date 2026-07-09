@@ -33,20 +33,16 @@ Les bases essentielles de Python avec les bibliothèques nécessaires pour l’I
 
 ### `03_Data_Analyses/`
 
-** Atelier 1 – Data Visualisation**
+**Atelier 1 – Data Visualisation**
 Construction de dashboards interactifs avec Matplotlib et Seaborn : histogrammes, boxplots, analyses comparatives.
 
-** Atelier 2 – Data Processing**
+**Atelier 2 – Data Processing**
 Pipeline complet de nettoyage : gestion des valeurs manquantes, détection d'outliers, encodage, normalisation et préparation pour le ML.
 
 ### `AI_Modules/`
 
 **Module 03 – Machine Learning**
 Types d'apprentissage (supervisé/non supervisé), train/test split et implémentation de modèles : régression linéaire, Decision Trees, régression logistique avec Scikit-learn.
-
-**Module 04 – Deep Learning (À venir)**
-Introduction aux réseaux de neurones avec TensorFlow/Keras : perceptron multicouche, entraînement et visualisation des métriques.
-*Notebooks en cours de préparation.*
 
 **Module 05 – IA Générative & LLM (À venir)**
 Introduction aux Large Language Models : prompt engineering, embeddings, génération de texte et chatbots.
